@@ -74,5 +74,6 @@ Dashboard
 
 ![image](https://github.com/user-attachments/assets/09212d2a-504d-48f0-9ad6-e3cc955be283)
 
-![image](https://github.com/user-attachments/assets/c63c9b13-0a7e-4c4b-bcd6-7095c8981954)
+![image](https://github.com/user-attachments/assets/2f52dacf-1fa9-4cbf-814d-929623ee9254)
+
 
