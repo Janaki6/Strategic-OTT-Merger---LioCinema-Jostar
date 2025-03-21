@@ -1,14 +1,22 @@
 # Strategic-OTT-Merger---LioCinema-Jostar
 
 🚀 Transforming India’s OTT Landscape: LioCinema + Jotstar Merger! 🎥📡
+
 ✨ "One Platform, Endless Stories – Your Ultimate Entertainment Destination!" ✨
+
 📢 Excited to share my submission for CodeBasics Resume Project Challenge #14! 🎉
+
 LioCinema & Jotstar are merging to create India’s most powerful OTT platform, combining:
+
 ✅ LioCinema’s vast subscriber base & regional dominance 🎥
+
 ✅ Jotstar’s premium content library & strong engagement 📺
+
 As a data analyst, I evaluated user engagement, content consumption, and subscriber behavior by integrating data, identifying trends, and assessing platform performance. These insights will help optimize content offerings, improve user experience, and reduce churn, ensuring a successful merger.
-________________________________________
+
+
 📊 Key Insights from the Merger Analysis:
+
 📌 Content Diversity: Jotstar leads in content variety, while LioCinema is heavily focused on Hindi content.
 📌 Engagement: Jotstar has 6X more watch time & a higher active user base than LioCinema.
 📌 Demographics: LioCinema dominates Tier 2/Tier 3 cities & younger audiences (18-34), while Jotstar appeals to Tier 1 cities & older age groups (45+).
