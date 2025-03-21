@@ -70,10 +70,11 @@ Dashboard
 
 ![image](https://github.com/user-attachments/assets/46f93985-e5fd-4359-a19d-5fa464baaf07)
 
-![image](https://github.com/user-attachments/assets/ff2883f4-c07c-4356-bf52-5ae138a10d92)
+![image](https://github.com/user-attachments/assets/52a692ec-e965-423d-9549-a0b7f6d7317d)
 
 ![image](https://github.com/user-attachments/assets/09212d2a-504d-48f0-9ad6-e3cc955be283)
 
-![image](https://github.com/user-attachments/assets/2f52dacf-1fa9-4cbf-814d-929623ee9254)
+![image](https://github.com/user-attachments/assets/96e56c1a-fd3f-48bf-9419-6b7149bdce94)
+
 
 
