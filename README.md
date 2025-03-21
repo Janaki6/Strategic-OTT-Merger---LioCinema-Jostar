@@ -54,10 +54,6 @@ ________________________________________
 
 📌 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDVjYTA3OWEtOTljYi00YTA4LTg5MDYtNjFkMzk0YzNjZDFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-📌 GitHub Repository: 
-
-📌 Video Presentation: 
-
 ________________________________________
 🛠 Tools Used: SQL | Excel | Power BI | PowerPoint
 _____________________________________
