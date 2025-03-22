@@ -55,6 +55,9 @@ ________________________________________
 
 📌 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGJmYTI0NDktNTRiYi00NjhiLWJkNjctNjM2MDU5OTFlOTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+🎥 Video Presentation: https://youtu.be/pO--tZfucJ8
+
+📡 Telecom Domain: https://www.linkedin.com/posts/janakipatel159_telecom-domain-data-analysis-activity-7304686186952867840-ye7x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH5jA8Bc1AWs9i7ksO61oZADGIZujmiyoQ
 
 ________________________________________
 🛠 Tools Used: SQL | Excel | Power BI | PowerPoint
